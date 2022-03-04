@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
+
+If you have stumbled upon this website, it means you probably know me or someone who does. Just in case you don't, let me introduce myself:
 
 You can use the [editor on GitHub](https://github.com/dieg00/dieg00_web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
